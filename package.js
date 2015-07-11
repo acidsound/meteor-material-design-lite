@@ -1,6 +1,6 @@
 Package.describe({
   name: 'spectrum:material-design-lite',
-  version: '0.0.3',
+  version: '0.0.4',
   summary: 'material-design-lite for meteor',
   git: 'https://github.com/acidsound/meteor-material-design-lite.git',
   documentation: 'README.md'
