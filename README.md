@@ -3,7 +3,7 @@
 # Usage
 Just run `meteor add spectrum:material-design-lite` in your project, then use the material design markups:
 
-	<button class="mdl-button mdl-js-button mdl-button--raised mdl-button--accent mdl-js-ripple-effect">
+	<button class="mdl-button mdl-js-button mdl-button--raised mdl-button--accent mdl-js-ripple-effect"></button>
 
 # Demo
 http://meteorpad.com/pad/of7fgtnve8QDYDBcA/material-design-lite-test
